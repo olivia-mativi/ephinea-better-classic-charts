@@ -1,0 +1,995 @@
+{
+  "vh": [
+    {
+      "area": "Forest 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Resta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Zonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Zonde", "rate": "1/1170.29" },
+            { "item": "Amplifier of Resta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Zonde", "rate": "1/1170.29" },
+            { "item": "Amplifier of Resta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        }
+      ]
+    },
+    {
+      "area": "Forest 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Crush Bullet", "rate": "1/585.14" },
+            { "item": "Berdys", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" },
+            { "item": "Amplifier of Barta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Visk-235W", "rate": "1/585.14" },
+            { "item": "Edge", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" },
+            { "item": "Amplifier of Barta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Flowen's Sword", "rate": "1/585.14" },
+            { "item": "Beam", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Brionac", "rate": "1/585.14" },
+            { "item": "Pillar", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "M&A60 Vise", "rate": "1/585.14" },
+            { "item": "Edge", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Fire Scepter: Agni", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" },
+            { "item": "Amplifier of Barta", "rate": "1/1170.29" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Sawcer", "rate": "1/585.14" },
+            { "item": "Launcher", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Blade Dance", "rate": "1/585.14" },
+            { "item": "Claymore", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" },
+            { "item": "M&A60 Vise", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Slicer of Assassin", "rate": "1/585.14" },
+            { "item": "Gatling", "rate": "1/585.14" },
+            { "item": "DB's Saber", "rate": "1/585.14" },
+            { "item": "Varista", "rate": "1/585.14" },
+            { "item": "Club of Laconium", "rate": "1/585.14" },
+            { "item": "Amplifier of Barta", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Cave 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Shifta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Anti", "rate": "1/1170.29" },
+            { "item": "Amplifier of Shifta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Anti", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Anti", "rate": "1/1170.29" },
+            { "item": "Amplifier of Shifta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Shifta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Anti", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Anti", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Shifta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Anti", "rate": "1/1170.29" },
+            { "item": "Fire Scepter: Agni", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Anti", "rate": "1/1170.29" }]
+        }
+      ]
+    },
+    {
+      "area": "Cave 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Blade Dance", "rate": "1/315.08" },
+            { "item": "Crush Bullet", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Cave 3",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Crush Bullet", "rate": "1/455.11" },
+            { "item": "Gungnir", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Visk-235W", "rate": "1/455.11" },
+            { "item": "Ripper", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Flowen's Sword", "rate": "1/455.11" },
+            { "item": "Laser", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Brionac", "rate": "1/455.11" },
+            { "item": "Striker", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" },
+            { "item": "Amplifier of Gizonde", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "M&A60 Vise", "rate": "1/455.11" },
+            { "item": "Ripper", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Fire Scepter: Agni", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" },
+            { "item": "Amplifier of Gizonde", "rate": "1/1170.29" },
+            { "item": "Red Barrier", "rate": "1/1170.29" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Diska", "rate": "1/455.11" },
+            { "item": "Arms", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Blade Dance", "rate": "1/455.11" },
+            { "item": "Calibur", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" },
+            { "item": "Amplifier of Gizonde", "rate": "1/1170.29" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Slicer of Assassin", "rate": "1/455.11" },
+            { "item": "Vulcan", "rate": "1/455.11" },
+            { "item": "DB's Saber", "rate": "1/455.11" },
+            { "item": "Varista", "rate": "1/455.11" },
+            { "item": "Club of Laconium", "rate": "1/455.11" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Mine 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/146.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/146.29" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/146.29" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/146.29" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Flowen's Sword", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Mine 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Meteor Smash", "rate": "1/585.14" },
+            { "item": "Brionac", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Wals-MK2", "rate": "1/585.14" },
+            { "item": "Blade Dance", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Last Survivor", "rate": "1/585.14" },
+            { "item": "Visk-235W", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "Amplifier of Deband", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Vjaya", "rate": "1/585.14" },
+            { "item": "Battle Verge", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "H&S25 Justice", "rate": "1/585.14" },
+            { "item": "Blade Dance", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "Amplifier of Razonde", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Ice Staff: Dagon", "rate": "1/585.14" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "Amplifier of Razonde", "rate": "1/1170.29" },
+            { "item": "Amplifier of Deband", "rate": "1/1170.29" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Slicer of Assassin", "rate": "1/585.14" },
+            { "item": "Crush Bullet", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "Amplifier of Deband", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Bloody Art", "rate": "1/585.14" },
+            { "item": "Flowen's Sword", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Kaladbolg", "rate": "1/585.14" },
+            { "item": "Custom Ray ver.OO", "rate": "1/585.14" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "Amplifier of Deband", "rate": "1/1170.29" },
+            { "item": "Battle Verge", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Diska of Liberator", "rate": "1/585.14" },
+            { "item": "M&A60 Vise", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/372.36" },
+            { "item": "Custom Ray ver.OO", "rate": "1/372.36" },
+            { "item": "Mace of Adaman", "rate": "1/372.36" },
+            { "item": "Amplifier of Deband", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Ruins 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rabarta", "rate": "1/1170.29" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rabarta", "rate": "1/1170.29" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Rabarta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Blue", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Blue Barrier", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" },
+            { "item": "Brionac", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        }
+      ]
+    },
+    {
+      "area": "Ruins 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" },
+            { "item": "Recovery Barrier", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "Recovery Barrier", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Red", "rate": "1/1170.29" },
+            { "item": "Recovery Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Recovery Barrier", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Red", "rate": "1/1170.29" },
+            { "item": "Recovery Barrier", "rate": "1/1170.29" },
+            { "item": "Visk-235W", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        }
+      ]
+    },
+    {
+      "area": "Ruins 3",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Meteor Smash", "rate": "1/455.11" },
+            { "item": "Brionac", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Wals-MK2", "rate": "1/455.11" },
+            { "item": "Blade Dance", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Assist Barrier", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Last Survivor", "rate": "1/455.11" },
+            { "item": "Visk-235W", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Assist Barrier", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Vjaya", "rate": "1/455.11" },
+            { "item": "Battle Verge", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Assist Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "H&S25 Justice", "rate": "1/455.11" },
+            { "item": "Blade Dance", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Ice Staff: Dagon", "rate": "1/455.11" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Assist Barrier", "rate": "1/1170.29" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Slicer of Assassin", "rate": "1/455.11" },
+            { "item": "Crush Bullet", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Amplifier of Yellow", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Bloody Art", "rate": "1/455.11" },
+            { "item": "Flowen's Sword", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Kaladbolg", "rate": "1/455.11" },
+            { "item": "Custom Ray ver.OO", "rate": "1/455.11" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Slicer of Assassin", "rate": "1/315.08" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Very Hard",
+          "episode": "E1",
+          "drops": [
+            { "item": "Diska of Liberator", "rate": "1/455.11" },
+            { "item": "M&A60 Vise", "rate": "1/455.11" },
+            { "item": "Kaladbolg", "rate": "1/315.08" },
+            { "item": "Custom Ray ver.OO", "rate": "1/315.08" },
+            { "item": "Mace of Adaman", "rate": "1/315.08" },
+            { "item": "Assist Barrier", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    }
+  ]
+}

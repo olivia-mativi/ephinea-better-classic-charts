@@ -1,0 +1,998 @@
+{
+  "Ultimate": [
+    {
+      "area": "VR Temple: Alpha",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Meteor Smash", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Wals-MK2", "rate": "1/630.15" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Last Survivor", "rate": "1/630.15" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Vjaya", "rate": "1/630.15" },
+            { "item": "Amplifier of Zonde", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "H&S25 Justice", "rate": "1/630.15" },
+            { "item": "Amplifier of Zonde", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Ice Staff: Dagon", "rate": "1/630.15" },
+            { "item": "Amplifier of Zonde", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Liberator", "rate": "1/630.15" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Bloody Art", "rate": "1/630.15" },
+            { "item": "Amplifier of Zonde", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Liberator", "rate": "1/630.15" }]
+        }
+      ]
+    },
+    {
+      "area": "VR Temple: Beta",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Meteor Smash", "rate": "1/585.14" },
+            { "item": "Vjaya", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Amplifier of Barta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Wals-MK2", "rate": "1/585.14" },
+            { "item": "Bloody Art", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Last Survivor", "rate": "1/585.14" },
+            { "item": "Wals-MK2", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Vjaya", "rate": "1/585.14" },
+            { "item": "Brave Hammer", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "H&S25 Justice", "rate": "1/585.14" },
+            { "item": "Bloody Art", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Ice Staff: Dagon", "rate": "1/585.14" },
+            { "item": "Vjaya", "rate": "1/630.15" },
+            { "item": "Amplifier of Barta", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Liberator", "rate": "1/585.14" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" },
+            { "item": "Assist Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Bloody Art", "rate": "1/585.14" },
+            { "item": "Last Survivor", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Kaladbolg", "rate": "1/1170.29" },
+            { "item": "Custom Ray ver.OO", "rate": "1/1170.29" },
+            { "item": "Mace of Adaman", "rate": "1/1170.29" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Liberator", "rate": "1/585.14" },
+            { "item": "H&S25 Justice", "rate": "1/630.15" },
+            { "item": "Kaladbolg", "rate": "1/630.15" },
+            { "item": "Custom Ray ver.OO", "rate": "1/630.15" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "VR Spaceship: Alpha",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Meteor Smash", "rate": "1/455.11" },
+            { "item": "Mace of Adaman", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Wals-MK2", "rate": "1/455.11" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Last Survivor", "rate": "1/455.11" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Vjaya", "rate": "1/455.11" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "H&S25 Justice", "rate": "1/455.11" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Ice Staff: Dagon", "rate": "1/455.11" },
+            { "item": "Amplifier of Foie", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Liberator", "rate": "1/455.11" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Bloody Art", "rate": "1/455.11" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Red Barrier", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Liberator", "rate": "1/455.11" },
+            { "item": "Amplifier of Foie", "rate": "1/1170.29" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "VR Spaceship: Beta",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Meteor Smash", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Wals-MK2", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Last Survivor", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Vjaya", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "H&S25 Justice", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Ice Staff: Dagon", "rate": "1/372.36" },
+            { "item": "Amplifier of Gibarta", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Liberator", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Bloody Art", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": []
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Liberator", "rate": "1/372.36" }]
+        }
+      ]
+    },
+    {
+      "area": "Jungle North",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Final Impact", "rate": "1/630.15" },
+            { "item": "Vjaya", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Justy-23ST", "rate": "1/630.15" },
+            { "item": "Bloody Art", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Dragon Slayer", "rate": "1/630.15" },
+            { "item": "Wals-MK2", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Gae Bolg", "rate": "1/630.15" },
+            { "item": "Brave Hammer", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "L&K14 Combat", "rate": "1/630.15" },
+            { "item": "Bloody Art", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Storm Wand: Indra", "rate": "1/630.15" },
+            { "item": "Vjaya", "rate": "1/585.14" },
+            { "item": "Amplifier of Gizonde", "rate": "1/630.15" },
+            { "item": "Red Barrier", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/630.15" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Cross Scar", "rate": "1/630.15" },
+            { "item": "Last Survivor", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Durandal", "rate": "1/1024" },
+            { "item": "Bravace", "rate": "1/1024" },
+            { "item": "Club of Zumiuran", "rate": "1/1024" },
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/630.15" },
+            { "item": "H&S25 Justice", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/585.14" },
+            { "item": "Bravace", "rate": "1/585.14" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" },
+            { "item": "Red Barrier", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Jungle East",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Final Impact", "rate": "1/585.14" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Justy-23ST", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Dragon Slayer", "rate": "1/585.14" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Gae Bolg", "rate": "1/585.14" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "L&K14 Combat", "rate": "1/585.14" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Storm Wand: Indra", "rate": "1/585.14" },
+            { "item": "Amplifier of Gifoie", "rate": "1/630.15" },
+            { "item": "Yellow Barrier", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Diska of Braveman", "rate": "1/585.14" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Cross Scar", "rate": "1/585.14" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Yellow Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Mag", "rate": "1/146.29" },
+            { "item": "Diska of Braveman", "rate": "1/585.14" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Mountain",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Final Impact", "rate": "1/455.11" },
+            { "item": "Vjaya", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Justy-23ST", "rate": "1/455.11" },
+            { "item": "Bloody Art", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Dragon Slayer", "rate": "1/455.11" },
+            { "item": "Wals-MK2", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Gae Bolg", "rate": "1/455.11" },
+            { "item": "Brave Hammer", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "L&K14 Combat", "rate": "1/455.11" },
+            { "item": "Bloody Art", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Storm Wand: Indra", "rate": "1/455.11" },
+            { "item": "Vjaya", "rate": "1/455.11" },
+            { "item": "Amplifier of Razonde", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Cross Scar", "rate": "1/455.11" },
+            { "item": "Last Survivor", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Durandal", "rate": "1/819.20" },
+            { "item": "Bravace", "rate": "1/819.20" },
+            { "item": "Club of Zumiuran", "rate": "1/819.20" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/455.11" },
+            { "item": "H&S25 Justice", "rate": "1/455.11" },
+            { "item": "Durandal", "rate": "1/455.11" },
+            { "item": "Bravace", "rate": "1/455.11" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Seaside / CCA",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Final Impact", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/585.14" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Justy-23ST", "rate": "1/372.36" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Dragon Slayer", "rate": "1/372.36" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Gae Bolg", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "L&K14 Combat", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Storm Wand: Indra", "rate": "1/372.36" },
+            { "item": "Amplifier of Rabarta", "rate": "1/630.15" },
+            { "item": "Amplifier of Blue", "rate": "1/630.15" },
+            { "item": "Blue Barrier", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/372.36" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Cross Scar", "rate": "1/372.36" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" },
+            { "item": "Blue Barrier", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Braveman", "rate": "1/372.36" }]
+        }
+      ]
+    },
+    {
+      "area": "Seabed: Upper Levels",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Final Impact", "rate": "1/315.08" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/455.11" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Justy-23ST", "rate": "1/315.08" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Dragon Slayer", "rate": "1/315.08" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Gae Bolg", "rate": "1/315.08" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "L&K14 Combat", "rate": "1/315.08" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Storm Wand: Indra", "rate": "1/315.08" },
+            { "item": "Amplifier of Rafoie", "rate": "1/630.15" },
+            { "item": "Amplifier of Red", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/315.08" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Cross Scar", "rate": "1/315.08" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [{ "item": "Diska of Braveman", "rate": "1/315.08" }]
+        }
+      ]
+    },
+    {
+      "area": "Seabed: Lower Levels",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Final Impact", "rate": "1/315.08" },
+            { "item": "Gae Bolg", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Justy-23ST", "rate": "1/315.08" },
+            { "item": "Cross Scar", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Dragon Slayer", "rate": "1/315.08" },
+            { "item": "Justy-23ST", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Gae Bolg", "rate": "1/315.08" },
+            { "item": "Alive Aqhu", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "L&K14 Combat", "rate": "1/315.08" },
+            { "item": "Cross Scar", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Storm Wand: Indra", "rate": "1/315.08" },
+            { "item": "Gae Bolg", "rate": "1/372.36" },
+            { "item": "Amplifier of Yellow", "rate": "1/630.15" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/315.08" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" },
+            { "item": "Amplifier of Yellow", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Cross Scar", "rate": "1/315.08" },
+            { "item": "Dragon Slayer", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Durandal", "rate": "1/682.67" },
+            { "item": "Bravace", "rate": "1/682.67" },
+            { "item": "Club of Zumiuran", "rate": "1/682.67" },
+            { "item": "Amplifier of Yellow", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Ultimate",
+          "episode": "E2",
+          "drops": [
+            { "item": "Diska of Braveman", "rate": "1/315.08" },
+            { "item": "L&K14 Combat", "rate": "1/372.36" },
+            { "item": "Durandal", "rate": "1/372.36" },
+            { "item": "Bravace", "rate": "1/372.36" },
+            { "item": "Club of Zumiuran", "rate": "1/372.36" }
+          ]
+        }
+      ]
+    }
+  ]
+}

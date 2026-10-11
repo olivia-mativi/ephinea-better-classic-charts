@@ -1,0 +1,1347 @@
+{
+  "hard": [
+    {
+      "monster": "Hildebear",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/45.71" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/45.71" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/45.71" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/45.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    {
+      "monster": "Hildeblue",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "H&S25 Justice", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Ice Staff: Dagon", "rate": "1/1.14" },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Brave Hammer", "rate": "1/1.14" },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/1.14"
+        }
+      ]
+    },
+    { "monster": "Mothmant", "drops": [] },
+    { "monster": "Monest", "drops": [] },
+    {
+      "monster": "Rag Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Varista", "rate": "1/128" },
+        {
+          "sectionId": "Greenill",
+          "item": "Custom Ray ver.OO",
+          "rate": "1/128"
+        },
+        { "sectionId": "Skyly", "item": "Kaladbolg", "rate": "1/128" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Club of Laconium",
+          "rate": "1/128"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Club of Laconium",
+          "rate": "1/128"
+        },
+        { "sectionId": "Pinkal", "item": "Mace of Adaman", "rate": "1/128" },
+        { "sectionId": "Redria", "item": "DB's Saber", "rate": "1/128" },
+        { "sectionId": "Oran", "item": "Club of Laconium", "rate": "1/128" },
+        { "sectionId": "Yellowboze", "item": "DB's Saber", "rate": "1/128" },
+        { "sectionId": "Whitill", "item": "Club of Laconium", "rate": "1/128" }
+      ]
+    },
+    {
+      "monster": "Love Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Victor Axe", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Sting Tip", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Sting Tip", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Suppressed Gun", "rate": "1/1.14" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Twin Psychogun",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Pinkal", "item": "Sting Tip", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Suppressed Gun", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Sting Tip", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Whitill", "item": "Angel/Luck", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Grass Assassin",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/160" },
+        { "sectionId": "Greenill", "item": "Blade Dance", "rate": "1/160" },
+        { "sectionId": "Skyly", "item": "Visk-235W", "rate": "1/160" },
+        { "sectionId": "Bluefull", "item": "Battle Verge", "rate": "1/160" },
+        { "sectionId": "Purplenum", "item": "Blade Dance", "rate": "1/160" },
+        { "sectionId": "Pinkal", "item": "Brionac", "rate": "1/160" },
+        { "sectionId": "Redria", "item": "Crush Bullet", "rate": "1/160" },
+        { "sectionId": "Oran", "item": "Flowen's Sword", "rate": "1/160" },
+        { "sectionId": "Yellowboze", "item": "Blade Dance", "rate": "1/160" },
+        { "sectionId": "Whitill", "item": "M&A60 Vise", "rate": "1/160" }
+      ]
+    },
+    {
+      "monster": "Poison Lily",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Redria", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "DB's Saber", "rate": "1/426.67" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "Nar Lily",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "H&S25 Justice", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Ice Staff: Dagon", "rate": "1/1.14" },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Mace of Adaman",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/1.14"
+        }
+      ]
+    },
+    {
+      "monster": "Dark Belra",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/104.49" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/104.49" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/104.49" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/104.49" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/104.49"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/104.49"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/104.49"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/104.49" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "H&S25 Justice",
+          "rate": "1/104.49"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/104.49"
+        }
+      ]
+    },
+    {
+      "monster": "Dimenian",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Oran", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Yellowboze", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "La Dimenian",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/412.90" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/412.90" },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/412.90" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/412.90" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/412.90" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/412.90"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Club of Laconium",
+          "rate": "1/412.90"
+        },
+        { "sectionId": "Oran", "item": "DB's Saber", "rate": "1/412.90" },
+        { "sectionId": "Yellowboze", "item": "Varista", "rate": "1/412.90" },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/412.90" }
+      ]
+    },
+    {
+      "monster": "So Dimenian",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Brionac", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Visk-235W", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "Brionac", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Slicer of Assassin",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/426.67" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Crush Bullet",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/426.67"
+        }
+      ]
+    },
+    {
+      "monster": "Barba Ray",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Greenill", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Skyly", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Bluefull", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Purplenum", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Pinkal", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Redria", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Oran", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Yellowboze", "item": "Double Saber", "rate": "1/16" },
+        { "sectionId": "Whitill", "item": "Double Saber", "rate": "1/16" }
+      ]
+    },
+    {
+      "monster": "St. Rappy",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Skyly", "item": "Christmas Present", "rate": "1/1.14" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Oran", "item": "Christmas Present", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        }
+      ]
+    },
+    {
+      "monster": "Halo Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        {
+          "sectionId": "Greenill",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Skyly", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Pinkal", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Whitill", "item": "Jack-O'-Lantern", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Egg Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Whitill", "item": "Easter Egg", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Savage Wolf",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/426.67" },
+        {
+          "sectionId": "Greenill",
+          "item": "Custom Ray ver.OO",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Skyly", "item": "Kaladbolg", "rate": "1/426.67" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Pinkal", "item": "Mace of Adaman", "rate": "1/426.67" },
+        { "sectionId": "Redria", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "Club of Laconium", "rate": "1/426.67" },
+        { "sectionId": "Yellowboze", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Whitill",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        }
+      ]
+    },
+    {
+      "monster": "Barbarous Wolf",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Brionac", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Blade Dance", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "Visk-235W", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "Battle Verge", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Blade Dance", "rate": "1/426.67" },
+        { "sectionId": "Pinkal", "item": "Brionac", "rate": "1/426.67" },
+        { "sectionId": "Redria", "item": "Crush Bullet", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "Flowen's Sword", "rate": "1/426.67" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Flowen's Sword",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Whitill", "item": "M&A60 Vise", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "Pan Arms",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/73.14" },
+        { "sectionId": "Greenill", "item": "Visk-235W", "rate": "1/73.14" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/73.14" },
+        { "sectionId": "Bluefull", "item": "Brionac", "rate": "1/73.14" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/73.14" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/73.14"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Slicer of Assassin",
+          "rate": "1/73.14"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/73.14" },
+        { "sectionId": "Yellowboze", "item": "Brionac", "rate": "1/73.14" },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/73.14"
+        }
+      ]
+    },
+    {
+      "monster": "Migium",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/81.27" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/81.27" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/81.27" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/81.27" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/81.27"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/81.27"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/81.27"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/81.27" },
+        { "sectionId": "Yellowboze", "item": "Wals-MK2", "rate": "1/81.27" },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/81.27"
+        }
+      ]
+    },
+    {
+      "monster": "Hidoom",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Light Relief", "rate": "1/81.27" },
+        {
+          "sectionId": "Greenill",
+          "item": "Revival Garment",
+          "rate": "1/81.27"
+        },
+        { "sectionId": "Skyly", "item": "Attribute Wall", "rate": "1/81.27" },
+        {
+          "sectionId": "Bluefull",
+          "item": "S-Parts ver1.16",
+          "rate": "1/81.27"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "S-Parts ver1.16",
+          "rate": "1/81.27"
+        },
+        { "sectionId": "Pinkal", "item": "S-Parts ver1.16", "rate": "1/81.27" },
+        { "sectionId": "Redria", "item": "Light Relief", "rate": "1/81.27" },
+        { "sectionId": "Oran", "item": "S-Parts ver1.16", "rate": "1/81.27" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Light Relief",
+          "rate": "1/81.27"
+        },
+        { "sectionId": "Whitill", "item": "S-Parts ver1.16", "rate": "1/81.27" }
+      ]
+    },
+    {
+      "monster": "Dubchic",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/213.33" },
+        { "sectionId": "Greenill", "item": "Visk-235W", "rate": "1/213.33" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/213.33" },
+        { "sectionId": "Bluefull", "item": "Brionac", "rate": "1/213.33" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/213.33" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/213.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Slicer of Assassin",
+          "rate": "1/213.33"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/213.33" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Slicer of Assassin",
+          "rate": "1/213.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/213.33"
+        }
+      ]
+    },
+    {
+      "monster": "Gilchic",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Redria", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "DB's Saber", "rate": "1/426.67" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "Garanz",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Suppressed Gun", "rate": "1/73.14" },
+        {
+          "sectionId": "Greenill",
+          "item": "Suppressed Gun",
+          "rate": "1/73.14"
+        },
+        { "sectionId": "Skyly", "item": "Victor Axe", "rate": "1/73.14" },
+        { "sectionId": "Bluefull", "item": "Victor Axe", "rate": "1/73.14" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Suppressed Gun",
+          "rate": "1/73.14"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "rate": "1/73.14"
+        },
+        { "sectionId": "Redria", "item": "Victor Axe", "rate": "1/73.14" },
+        { "sectionId": "Oran", "item": "Victor Axe", "rate": "1/73.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Def Material",
+          "rate": "1/73.14"
+        },
+        { "sectionId": "Whitill", "item": "S-Parts ver1.16", "rate": "1/73.14" }
+      ]
+    },
+    {
+      "monster": "Delsaber",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/256" },
+        { "sectionId": "Greenill", "item": "Visk-235W", "rate": "1/256" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/256" },
+        { "sectionId": "Bluefull", "item": "Brionac", "rate": "1/256" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/256" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/256"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Slicer of Assassin",
+          "rate": "1/256"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/256" },
+        { "sectionId": "Yellowboze", "item": "M&A60 Vise", "rate": "1/256" },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/256"
+        }
+      ]
+    },
+    {
+      "monster": "Chaos Sorcerer",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/146.29" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/146.29" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/146.29" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/146.29" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/146.29"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/146.29"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/146.29"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/146.29" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Meteor Smash",
+          "rate": "1/146.29"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/146.29"
+        }
+      ]
+    },
+    {
+      "monster": "Gol Dragon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Greenill", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Skyly", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Bluefull", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Purplenum", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Pinkal", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Redria", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Oran", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Yellowboze", "item": "Brave Knuckle", "rate": "1/16" },
+        { "sectionId": "Whitill", "item": "Brave Knuckle", "rate": "1/16" }
+      ]
+    },
+    {
+      "monster": "Merillia",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/426.67" },
+        {
+          "sectionId": "Greenill",
+          "item": "Custom Ray ver.OO",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Redria", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Yellowboze", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "Meriltas",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Revival Garment",
+          "rate": "1/365.71"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "S-Parts ver1.16",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Skyly", "item": "Revival Garment", "rate": "1/365.71" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Attribute Wall",
+          "rate": "1/365.71"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Attribute Wall",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Pinkal", "item": "Mind Material", "rate": "1/365.71" },
+        { "sectionId": "Redria", "item": "Attribute Wall", "rate": "1/365.71" },
+        { "sectionId": "Oran", "item": "Light Relief", "rate": "1/365.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Revival Garment",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Whitill", "item": "Attribute Wall", "rate": "1/365.71" }
+      ]
+    },
+    {
+      "monster": "Gee",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Redria", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "Evade Material", "rate": "1/426.67" },
+        { "sectionId": "Yellowboze", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "Gi Gue",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/45.71" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/45.71" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/45.71" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/45.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Custom Ray ver.OO",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    {
+      "monster": "Mericarol",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/45.71" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/45.71" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/45.71" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/45.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    {
+      "monster": "Merikle",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/45.71" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/45.71" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/45.71" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/45.71" },
+        { "sectionId": "Yellowboze", "item": "Vjaya", "rate": "1/45.71" },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    {
+      "monster": "Mericus",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/45.71" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/45.71" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/45.71" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/45.71" },
+        { "sectionId": "Yellowboze", "item": "Bloody Art", "rate": "1/45.71" },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    {
+      "monster": "Ul Gibbon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "Kaladbolg", "rate": "1/426.67" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Pinkal", "item": "Attribute Wall", "rate": "1/426.67" },
+        {
+          "sectionId": "Redria",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Oran", "item": "Club of Laconium", "rate": "1/426.67" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        }
+      ]
+    },
+    {
+      "monster": "Zol Gibbon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/365.71" },
+        { "sectionId": "Greenill", "item": "Visk-235W", "rate": "1/365.71" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/365.71" },
+        { "sectionId": "Bluefull", "item": "Brionac", "rate": "1/365.71" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/365.71" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/365.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Slicer of Assassin",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/365.71" },
+        { "sectionId": "Yellowboze", "item": "Visk-235W", "rate": "1/365.71" },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/365.71"
+        }
+      ]
+    },
+    {
+      "monster": "Gibbles",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sting Tip", "rate": "1/45.71" },
+        { "sectionId": "Greenill", "item": "Plantain Leaf", "rate": "1/45.71" },
+        { "sectionId": "Skyly", "item": "Fatsia", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Plantain Leaf", "rate": "1/45.71" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/45.71" },
+        { "sectionId": "Pinkal", "item": "Plantain Leaf", "rate": "1/45.71" },
+        { "sectionId": "Redria", "item": "Plantain Leaf", "rate": "1/45.71" },
+        { "sectionId": "Oran", "item": "Attribute Plate", "rate": "1/45.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Double Saber",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    {
+      "monster": "Sinow Berill",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/320" },
+        {
+          "sectionId": "Greenill",
+          "item": "Sinow Berill's Arms",
+          "rate": "1/320"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Sinow Berill's Arms",
+          "rate": "1/320"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Sinow Berill's Arms",
+          "rate": "1/320"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Sinow Berill's Arms",
+          "rate": "1/320"
+        },
+        { "sectionId": "Pinkal", "item": "Mace of Adaman", "rate": "1/320" },
+        {
+          "sectionId": "Redria",
+          "item": "Sinow Berill's Arms",
+          "rate": "1/320"
+        },
+        { "sectionId": "Oran", "item": "Monogrinder", "rate": "1/320" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Sinow Berill's Arms",
+          "rate": "1/320"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/320" }
+      ]
+    },
+    {
+      "monster": "Sinow Spigell",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Brionac", "rate": "1/284.44" },
+        { "sectionId": "Greenill", "item": "Blade Dance", "rate": "1/284.44" },
+        { "sectionId": "Skyly", "item": "Visk-235W", "rate": "1/284.44" },
+        { "sectionId": "Bluefull", "item": "Battle Verge", "rate": "1/284.44" },
+        { "sectionId": "Purplenum", "item": "Blade Dance", "rate": "1/284.44" },
+        { "sectionId": "Pinkal", "item": "Brionac", "rate": "1/284.44" },
+        { "sectionId": "Redria", "item": "Crush Bullet", "rate": "1/284.44" },
+        { "sectionId": "Oran", "item": "Flowen's Sword", "rate": "1/284.44" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Battle Verge",
+          "rate": "1/284.44"
+        },
+        { "sectionId": "Whitill", "item": "M&A60 Vise", "rate": "1/284.44" }
+      ]
+    },
+    {
+      "monster": "Gal Gryphon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Greenill", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Skyly", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Bluefull", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Purplenum", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Pinkal", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Redria", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Oran", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Yellowboze", "item": "Photon Claw", "rate": "1/16" },
+        { "sectionId": "Whitill", "item": "Photon Claw", "rate": "1/16" }
+      ]
+    },
+    {
+      "monster": "Dolmolm",
+      "drops": [
+        { "sectionId": "Viridia", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Greenill", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Skyly", "item": "DB's Saber", "rate": "1/426.67" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Pinkal", "item": "Mace of Adaman", "rate": "1/426.67" },
+        { "sectionId": "Redria", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "Club of Laconium", "rate": "1/426.67" },
+        { "sectionId": "Yellowboze", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Whitill", "item": "Varista", "rate": "1/426.67" }
+      ]
+    },
+    {
+      "monster": "Dolmdarl",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Attribute Plate",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Greenill", "item": "Light Relief", "rate": "1/365.71" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/365.71" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Revival Garment",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Purplenum", "item": "Sting Tip", "rate": "1/365.71" },
+        { "sectionId": "Pinkal", "item": "Light Relief", "rate": "1/365.71" },
+        {
+          "sectionId": "Redria",
+          "item": "Club of Laconium",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Oran", "item": "Revival Garment", "rate": "1/365.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Attribute Plate",
+          "rate": "1/365.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Attribute Plate",
+          "rate": "1/365.71"
+        }
+      ]
+    },
+    {
+      "monster": "Morfos",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/160" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/160" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/160" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/160" },
+        { "sectionId": "Purplenum", "item": "H&S25 Justice", "rate": "1/160" },
+        { "sectionId": "Pinkal", "item": "Ice Staff: Dagon", "rate": "1/160" },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/160"
+        },
+        { "sectionId": "Oran", "item": "Bloody Art", "rate": "1/160" },
+        { "sectionId": "Yellowboze", "item": "Last Survivor", "rate": "1/160" },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/160"
+        }
+      ]
+    },
+    { "monster": "Recon", "drops": [] },
+    {
+      "monster": "Sinow Zoa",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Greenill",
+          "item": "Custom Ray ver.OO",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Skyly", "item": "Kaladbolg", "rate": "1/426.67" },
+        { "sectionId": "Bluefull", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Purplenum", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        },
+        { "sectionId": "Redria", "item": "Varista", "rate": "1/426.67" },
+        { "sectionId": "Oran", "item": "DB's Saber", "rate": "1/426.67" },
+        { "sectionId": "Yellowboze", "item": "Varista", "rate": "1/426.67" },
+        {
+          "sectionId": "Whitill",
+          "item": "Club of Laconium",
+          "rate": "1/426.67"
+        }
+      ]
+    },
+    {
+      "monster": "Sinow Zele",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Brionac", "rate": "1/365.71" },
+        { "sectionId": "Greenill", "item": "Blade Dance", "rate": "1/365.71" },
+        { "sectionId": "Skyly", "item": "Visk-235W", "rate": "1/365.71" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Attribute Plate",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Purplenum", "item": "Blade Dance", "rate": "1/365.71" },
+        { "sectionId": "Pinkal", "item": "Brionac", "rate": "1/365.71" },
+        { "sectionId": "Redria", "item": "Crush Bullet", "rate": "1/365.71" },
+        { "sectionId": "Oran", "item": "Flowen's Sword", "rate": "1/365.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/365.71"
+        },
+        { "sectionId": "Whitill", "item": "M&A60 Vise", "rate": "1/365.71" }
+      ]
+    },
+    {
+      "monster": "Deldepth",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/160" },
+        { "sectionId": "Greenill", "item": "Visk-235W", "rate": "1/160" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/160" },
+        { "sectionId": "Bluefull", "item": "Brionac", "rate": "1/160" },
+        { "sectionId": "Purplenum", "item": "M&A60 Vise", "rate": "1/160" },
+        {
+          "sectionId": "Pinkal",
+          "item": "Fire Scepter: Agni",
+          "rate": "1/160"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Slicer of Assassin",
+          "rate": "1/160"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/160" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Flowen's Sword",
+          "rate": "1/160"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/160"
+        }
+      ]
+    },
+    {
+      "monster": "Delbiter",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Agito (1991)", "rate": "1/45.71" },
+        {
+          "sectionId": "Greenill",
+          "item": "Twin Psychogun",
+          "rate": "1/45.71"
+        },
+        { "sectionId": "Skyly", "item": "Musashi", "rate": "1/45.71" },
+        { "sectionId": "Bluefull", "item": "Sting Tip", "rate": "1/45.71" },
+        { "sectionId": "Purplenum", "item": "Blade Dance", "rate": "1/45.71" },
+        { "sectionId": "Pinkal", "item": "Fatsia", "rate": "1/45.71" },
+        { "sectionId": "Redria", "item": "Musashi", "rate": "1/45.71" },
+        { "sectionId": "Oran", "item": "Musashi", "rate": "1/45.71" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Club of Laconium",
+          "rate": "1/45.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Slicer of Assassin",
+          "rate": "1/45.71"
+        }
+      ]
+    },
+    { "monster": "Olga Flow", "drops": [] },
+    {
+      "monster": "Ill Gill",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/160" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/160" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/160" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/160" },
+        { "sectionId": "Purplenum", "item": "H&S25 Justice", "rate": "1/160" },
+        { "sectionId": "Pinkal", "item": "Ice Staff: Dagon", "rate": "1/160" },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/160"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/160" },
+        { "sectionId": "Yellowboze", "item": "Kaladbolg", "rate": "1/160" },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/160"
+        }
+      ]
+    },
+    {
+      "monster": "Del Lily",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/182.86" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/182.86" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/182.86" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/182.86" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/182.86"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/182.86"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/182.86"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/182.86" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Custom Ray ver.OO",
+          "rate": "1/182.86"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/182.86"
+        }
+      ]
+    },
+    {
+      "monster": "Epsilon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Meteor Smash", "rate": "1/213.33" },
+        { "sectionId": "Greenill", "item": "Wals-MK2", "rate": "1/213.33" },
+        { "sectionId": "Skyly", "item": "Last Survivor", "rate": "1/213.33" },
+        { "sectionId": "Bluefull", "item": "Vjaya", "rate": "1/213.33" },
+        {
+          "sectionId": "Purplenum",
+          "item": "H&S25 Justice",
+          "rate": "1/213.33"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ice Staff: Dagon",
+          "rate": "1/213.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Liberator",
+          "rate": "1/213.33"
+        },
+        { "sectionId": "Oran", "item": "Blade Dance", "rate": "1/213.33" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Mace of Adaman",
+          "rate": "1/213.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Liberator",
+          "rate": "1/213.33"
+        }
+      ]
+    }
+  ]
+}
