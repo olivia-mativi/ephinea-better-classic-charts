@@ -1,0 +1,1050 @@
+{
+  "normal": [
+    {
+      "monster": "Hildebear",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Greenill", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Skyly", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Bluefull", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Purplenum", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Pinkal", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Redria", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Oran", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Yellowboze", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Whitill", "item": "Trimate", "rate": "1/2.22" }
+      ]
+    },
+    {
+      "monster": "Hildeblue",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Resist/Flame", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Resist/Freeze", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "General/Power", "rate": "1/1.14" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Trigrinder",
+          "rate": "1/4294967295"
+        },
+        { "sectionId": "Purplenum", "item": "Resist/Light", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Resist/Freeze", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "AddSlot", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Dragon/HP", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Scape Doll", "rate": "1/1.14" },
+        { "sectionId": "Whitill", "item": "General/Power", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Mothmant",
+      "drops": [
+        { "sectionId": "Oran", "item": "Power Material", "rate": "1/23405.71" },
+        {
+          "sectionId": "Whitill",
+          "item": "Evade Material",
+          "rate": "1/23405.71"
+        }
+      ]
+    },
+    { "monster": "Monest", "drops": [] },
+    {
+      "monster": "Rag Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/1820.44" },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/1820.44" },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/1820.44" },
+        { "sectionId": "Pinkal", "item": "Monogrinder", "rate": "1/1820.44" },
+        { "sectionId": "Oran", "item": "Monogrinder", "rate": "1/1820.44" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Mind Material",
+          "rate": "1/744.73"
+        }
+      ]
+    },
+    {
+      "monster": "Love Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Angel/Luck", "rate": "1/1.14" },
+        { "sectionId": "Whitill", "item": "Angel/Luck", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Grass Assassin",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/4.44" },
+        {
+          "sectionId": "Greenill",
+          "item": "Light Relief",
+          "rate": "1/9102.22"
+        },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Pinkal", "item": "Light Relief", "rate": "1/9102.22" },
+        { "sectionId": "Redria", "item": "Light Relief", "rate": "1/9102.22" },
+        { "sectionId": "Oran", "item": "Light Relief", "rate": "1/9102.22" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Light Relief",
+          "rate": "1/9102.22"
+        },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/4.44" }
+      ]
+    },
+    {
+      "monster": "Poison Lily",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Mind Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Evade Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Pinkal", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "Nar Lily",
+      "drops": [
+        { "sectionId": "Viridia", "item": "General/Arm", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "General/Arm", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "HP/Restorate", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Dragon/HP", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "General/Mind", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "AddSlot", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "General/Power", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Resist/Flame", "rate": "1/1.14" },
+        { "sectionId": "Whitill", "item": "Resist/Flame", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Dark Belra",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/5201.27" },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/5.08" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/5.08" }
+      ]
+    },
+    {
+      "monster": "Dimenian",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Greenill", "item": "HP Material", "rate": "1/2482.42" },
+        { "sectionId": "Skyly", "item": "Power Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Monogrinder",
+          "rate": "1/6068.15"
+        },
+        { "sectionId": "Pinkal", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Redria",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Oran", "item": "Mind Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Monogrinder",
+          "rate": "1/6068.15"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "La Dimenian",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Mind Material",
+          "rate": "1/2402.35"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Luck Material",
+          "rate": "1/5872.40"
+        },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/5872.40" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/5872.40" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Monogrinder",
+          "rate": "1/5872.40"
+        },
+        { "sectionId": "Pinkal", "item": "Mind Material", "rate": "1/2402.35" },
+        { "sectionId": "Redria", "item": "Mind Material", "rate": "1/2402.35" },
+        { "sectionId": "Oran", "item": "Def Material", "rate": "1/2402.35" }
+      ]
+    },
+    {
+      "monster": "So Dimenian",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Greenill",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Skyly", "item": "Mind Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Def Material",
+          "rate": "1/2482.42"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Pinkal", "item": "Def Material", "rate": "1/2482.42" },
+        { "sectionId": "Redria", "item": "Luck Material", "rate": "1/6068.15" },
+        { "sectionId": "Oran", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Monogrinder",
+          "rate": "1/6068.15"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "Barba Ray",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "St. Rappy",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Skyly", "item": "Christmas Present", "rate": "1/1.14" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Oran", "item": "Christmas Present", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Christmas Present",
+          "rate": "1/1.14"
+        }
+      ]
+    },
+    {
+      "monster": "Halo Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        {
+          "sectionId": "Greenill",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Skyly", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Pinkal", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Jack-O'-Lantern", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Jack-O'-Lantern",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Whitill", "item": "Jack-O'-Lantern", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Egg Rappy",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Yellowboze", "item": "Easter Egg", "rate": "1/1.14" },
+        { "sectionId": "Whitill", "item": "Easter Egg", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Savage Wolf",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Skyly", "item": "Def Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Evade Material",
+          "rate": "1/2482.42"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/3900.95"
+        }
+      ]
+    },
+    {
+      "monster": "Barbarous Wolf",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Greenill", "item": "AddSlot", "rate": "1/9102.22" },
+        { "sectionId": "Skyly", "item": "Luck Material", "rate": "1/6068.15" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Pinkal", "item": "Mind Material", "rate": "1/2482.42" },
+        { "sectionId": "Redria", "item": "Mind Material", "rate": "1/2482.42" },
+        { "sectionId": "Oran", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Sol Atomizer",
+          "rate": "1/2482.42"
+        }
+      ]
+    },
+    {
+      "monster": "Pan Arms",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Greenill", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/3.56" }
+      ]
+    },
+    {
+      "monster": "Migium",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Greenill", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Skyly", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Bluefull", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Purplenum", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Pinkal", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Redria", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Oran", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Yellowboze", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Whitill", "item": "Trimate", "rate": "1/3.95" }
+      ]
+    },
+    {
+      "monster": "Hidoom",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Greenill", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Skyly", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Bluefull", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Purplenum", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Pinkal", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Redria", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Oran", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Yellowboze", "item": "Trimate", "rate": "1/3.95" },
+        { "sectionId": "Whitill", "item": "Trimate", "rate": "1/3.95" }
+      ]
+    },
+    {
+      "monster": "Dubchic",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Evade Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Skyly", "item": "HP Material", "rate": "1/2482.42" },
+        { "sectionId": "Bluefull", "item": "HP Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Scape Doll",
+          "rate": "1/15603.81"
+        },
+        { "sectionId": "Pinkal", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Redria", "item": "Def Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Def Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "Gilchic",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "Garanz",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Light Relief", "rate": "1/7281.78" },
+        {
+          "sectionId": "Greenill",
+          "item": "S-Parts ver1.16",
+          "rate": "1/7281.78"
+        },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Bluefull", "item": "Trimate", "rate": "1/3.56" },
+        {
+          "sectionId": "Purplenum",
+          "item": "S-Parts ver1.16",
+          "rate": "1/7281.78"
+        },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/3.56" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/3.56" }
+      ]
+    },
+    {
+      "monster": "Delsaber",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Greenill", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/7.11" }
+      ]
+    },
+    {
+      "monster": "Chaos Sorcerer",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/7281.78" },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/7.11" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/7.11" }
+      ]
+    },
+    {
+      "monster": "Gol Dragon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Merillia",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Purplenum",
+          "item": "HP Material",
+          "rate": "1/2482.42"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Oran", "item": "Power Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Whitill", "item": "HP Material", "rate": "1/2482.42" }
+      ]
+    },
+    {
+      "monster": "Meriltas",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Def Material", "rate": "1/2127.79" },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/5201.27" },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/5201.27" },
+        {
+          "sectionId": "Purplenum",
+          "item": "HP Material",
+          "rate": "1/2127.79"
+        },
+        { "sectionId": "Pinkal", "item": "Mind Material", "rate": "1/2127.79" },
+        { "sectionId": "Redria", "item": "HP Material", "rate": "1/2127.79" },
+        { "sectionId": "Oran", "item": "Mind Material", "rate": "1/2127.79" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Mind Material",
+          "rate": "1/2127.79"
+        },
+        { "sectionId": "Whitill", "item": "HP Material", "rate": "1/2127.79" }
+      ]
+    },
+    {
+      "monster": "Gee",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Skyly", "item": "Flowen's Sword", "rate": "1/2482.42" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Monogrinder",
+          "rate": "1/6068.15"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Evade Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Redria", "item": "HP Material", "rate": "1/2482.42" },
+        { "sectionId": "Oran", "item": "Evade Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Evade Material",
+          "rate": "1/2482.42"
+        }
+      ]
+    },
+    {
+      "monster": "Gi Gue",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.43" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.43"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.43" }
+      ]
+    },
+    {
+      "monster": "Mericarol",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.43" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.43"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.43" }
+      ]
+    },
+    {
+      "monster": "Merikle",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.43" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.43"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.43" }
+      ]
+    },
+    {
+      "monster": "Mericus",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.43" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.43"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.43" }
+      ]
+    },
+    {
+      "monster": "Ul Gibbon",
+      "drops": [
+        {
+          "sectionId": "Greenill",
+          "item": "Mind Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Skyly", "item": "AddSlot", "rate": "1/9102.22" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Monogrinder",
+          "rate": "1/6068.15"
+        },
+        { "sectionId": "Pinkal", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Oran", "item": "Def Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Monogrinder",
+          "rate": "1/6068.15"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "Zol Gibbon",
+      "drops": [
+        { "sectionId": "Skyly", "item": "AddSlot", "rate": "1/7801.90" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Star Atomizer",
+          "rate": "1/3343.67"
+        },
+        { "sectionId": "Pinkal", "item": "Monogrinder", "rate": "1/5201.27" },
+        { "sectionId": "Oran", "item": "Luck Material", "rate": "1/5201.27" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Monogrinder",
+          "rate": "1/5201.27"
+        }
+      ]
+    },
+    {
+      "monster": "Gibbles",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.43" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.43" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.43"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.43" }
+      ]
+    },
+    {
+      "monster": "Sinow Berill",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Crush Bullet", "rate": "1/1861.82" },
+        { "sectionId": "Skyly", "item": "Power Material", "rate": "1/1861.82" },
+        { "sectionId": "Pinkal", "item": "Scape Doll", "rate": "1/11702.86" },
+        { "sectionId": "Oran", "item": "Monogrinder", "rate": "1/4551.11" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Monogrinder",
+          "rate": "1/4551.11"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/4551.11" }
+      ]
+    },
+    {
+      "monster": "Sinow Spigell",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/4045.43" },
+        { "sectionId": "Greenill", "item": "Scape Doll", "rate": "1/10402.54" },
+        { "sectionId": "Skyly", "item": "Dragon/HP", "rate": "1/4045.43" },
+        { "sectionId": "Bluefull", "item": "Scape Doll", "rate": "1/10402.54" },
+        { "sectionId": "Oran", "item": "Monogrinder", "rate": "1/4045.43" },
+        { "sectionId": "Whitill", "item": "Scape Doll", "rate": "1/10402.54" }
+      ]
+    },
+    {
+      "monster": "Gal Gryphon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Greenill", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Bluefull", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Purplenum", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Pinkal", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Redria", "item": "Star Atomizer", "rate": "1/1.14" },
+        { "sectionId": "Oran", "item": "Star Atomizer", "rate": "1/1.14" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Star Atomizer",
+          "rate": "1/1.14"
+        },
+        { "sectionId": "Whitill", "item": "Star Atomizer", "rate": "1/1.14" }
+      ]
+    },
+    {
+      "monster": "Dolmolm",
+      "drops": [
+        { "sectionId": "Viridia", "item": "AddSlot", "rate": "1/9102.22" },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Bluefull", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Pinkal", "item": "HP Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Redria",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Power Material",
+          "rate": "1/2482.42"
+        }
+      ]
+    },
+    {
+      "monster": "Dolmdarl",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/5201.27" },
+        { "sectionId": "Greenill", "item": "Monogrinder", "rate": "1/5201.27" },
+        { "sectionId": "Skyly", "item": "Star Atomizer", "rate": "1/3343.67" },
+        { "sectionId": "Bluefull", "item": "AddSlot", "rate": "1/7801.90" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Mind Material",
+          "rate": "1/2127.79"
+        },
+        { "sectionId": "Pinkal", "item": "Mind Material", "rate": "1/2127.79" },
+        { "sectionId": "Redria", "item": "Mind Material", "rate": "1/2127.79" },
+        { "sectionId": "Oran", "item": "HP Material", "rate": "1/2127.79" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "HP Material",
+          "rate": "1/2127.79"
+        },
+        { "sectionId": "Whitill", "item": "Mind Material", "rate": "1/2127.79" }
+      ]
+    },
+    {
+      "monster": "Morfos",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Greenill", "item": "Trimate", "rate": "1/4.44" },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/4.44" }
+      ]
+    },
+    { "monster": "Recon", "drops": [] },
+    {
+      "monster": "Sinow Zoa",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Monogrinder", "rate": "1/6068.15" },
+        {
+          "sectionId": "Greenill",
+          "item": "Evade Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/6068.15" },
+        { "sectionId": "Bluefull", "item": "HP Material", "rate": "1/2482.42" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Def Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Pinkal", "item": "Def Material", "rate": "1/2482.42" },
+        { "sectionId": "Redria", "item": "Scape Doll", "rate": "1/15603.81" },
+        {
+          "sectionId": "Oran",
+          "item": "Slicer of Assassin",
+          "rate": "1/6068.15"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Def Material",
+          "rate": "1/2482.42"
+        },
+        { "sectionId": "Whitill", "item": "Monogrinder", "rate": "1/6068.15" }
+      ]
+    },
+    {
+      "monster": "Sinow Zele",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Brionac", "rate": "1/5201.27" },
+        { "sectionId": "Greenill", "item": "Bloody Art", "rate": "1/5201.27" },
+        { "sectionId": "Skyly", "item": "Monogrinder", "rate": "1/5201.27" },
+        { "sectionId": "Bluefull", "item": "HP Material", "rate": "1/2127.79" },
+        {
+          "sectionId": "Purplenum",
+          "item": "Luck Material",
+          "rate": "1/5201.27"
+        },
+        { "sectionId": "Pinkal", "item": "Luck Material", "rate": "1/5201.27" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Luck Material",
+          "rate": "1/5201.27"
+        },
+        { "sectionId": "Whitill", "item": "M&A60 Vise", "rate": "1/5201.27" }
+      ]
+    },
+    {
+      "monster": "Deldepth",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Greenill", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Skyly", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Bluefull", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Purplenum", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Pinkal", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Redria", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Oran", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Yellowboze", "item": "Sol Atomizer", "rate": "1/4.44" },
+        { "sectionId": "Whitill", "item": "Sol Atomizer", "rate": "1/4.44" }
+      ]
+    },
+    {
+      "monster": "Delbiter",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Greenill", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Skyly", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Bluefull", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Purplenum", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Pinkal", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Redria", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Oran", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Yellowboze", "item": "Trimate", "rate": "1/2.22" },
+        { "sectionId": "Whitill", "item": "Trimate", "rate": "1/2.22" }
+      ]
+    },
+    { "monster": "Olga Flow", "drops": [] },
+    {
+      "monster": "Ill Gill",
+      "drops": [
+        { "sectionId": "Viridia", "item": "Dragon/HP", "rate": "1/11702.86" },
+        {
+          "sectionId": "Greenill",
+          "item": "Resist/Light",
+          "rate": "1/11702.86"
+        },
+        { "sectionId": "Skyly", "item": "Resist/Light", "rate": "1/11702.86" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Resist/Flame",
+          "rate": "1/11702.86"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Resist/Freeze",
+          "rate": "1/11702.86"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Resist/Thunder",
+          "rate": "1/11702.86"
+        },
+        { "sectionId": "Redria", "item": "Dragon/HP", "rate": "1/11702.86" },
+        { "sectionId": "Oran", "item": "General/Mind", "rate": "1/11702.86" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "General/Legs",
+          "rate": "1/11702.86"
+        },
+        { "sectionId": "Whitill", "item": "General/Arm", "rate": "1/11702.86" }
+      ]
+    },
+    {
+      "monster": "Del Lily",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Resist/Light",
+          "rate": "1/13374.69"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Resist/Flame",
+          "rate": "1/13374.69"
+        },
+        { "sectionId": "Skyly", "item": "Resist/Flame", "rate": "1/13374.69" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Resist/Freeze",
+          "rate": "1/13374.69"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Resist/Thunder",
+          "rate": "1/13374.69"
+        },
+        { "sectionId": "Pinkal", "item": "Dragon/HP", "rate": "1/13374.69" },
+        { "sectionId": "Redria", "item": "General/Mind", "rate": "1/13374.69" },
+        { "sectionId": "Oran", "item": "General/Legs", "rate": "1/13374.69" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "General/Arm",
+          "rate": "1/13374.69"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "General/Power",
+          "rate": "1/13374.69"
+        }
+      ]
+    },
+    {
+      "monster": "Epsilon",
+      "drops": [
+        { "sectionId": "Viridia", "item": "General/Arm", "rate": "1/15603.81" },
+        {
+          "sectionId": "Greenill",
+          "item": "Resist/Freeze",
+          "rate": "1/15603.81"
+        },
+        { "sectionId": "Skyly", "item": "Resist/Freeze", "rate": "1/15603.81" },
+        {
+          "sectionId": "Bluefull",
+          "item": "Resist/Thunder",
+          "rate": "1/15603.81"
+        },
+        { "sectionId": "Purplenum", "item": "Dragon/HP", "rate": "1/15603.81" },
+        { "sectionId": "Pinkal", "item": "General/Mind", "rate": "1/15603.81" },
+        { "sectionId": "Redria", "item": "General/Legs", "rate": "1/15603.81" },
+        { "sectionId": "Oran", "item": "General/Arm", "rate": "1/15603.81" },
+        {
+          "sectionId": "Yellowboze",
+          "item": "General/Power",
+          "rate": "1/15603.81"
+        },
+        { "sectionId": "Whitill", "item": "TP/Restorate", "rate": "1/15603.81" }
+      ]
+    }
+  ]
+}

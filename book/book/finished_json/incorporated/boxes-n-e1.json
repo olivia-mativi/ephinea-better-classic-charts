@@ -1,0 +1,815 @@
+{
+  "normal": [
+    {
+      "area": "Forest 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Foie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Barta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Barta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Barta", "rate": "1/1170.29" }]
+        }
+      ]
+    },
+    {
+      "area": "Forest 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Barta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Barta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Foie", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Foie", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Foie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/744.73" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Foie", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Foie", "rate": "1/1170.29" }]
+        }
+      ]
+    },
+    {
+      "area": "Cave 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Zonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Zonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Zonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Zonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "AddSlot", "rate": "1/1170.29" }]
+        }
+      ]
+    },
+    {
+      "area": "Cave 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Gifoie", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Gizonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Gizonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Gizonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Gizonde", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        }
+      ]
+    },
+    {
+      "area": "Cave 3",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Cannon", "rate": "1/1820.44" },
+            { "item": "Glaive", "rate": "1/1820.44" },
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Blaster", "rate": "1/1820.44" },
+            { "item": "Blade", "rate": "1/1820.44" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Breaker", "rate": "1/1820.44" },
+            { "item": "Blaster", "rate": "1/1820.44" },
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Glaive", "rate": "1/1820.44" },
+            { "item": "Pole", "rate": "1/1820.44" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Repeater", "rate": "1/1820.44" },
+            { "item": "Blade", "rate": "1/1820.44" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Staff", "rate": "1/1820.44" },
+            { "item": "Glaive", "rate": "1/1820.44" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Cutter", "rate": "1/1820.44" },
+            { "item": "Cannon", "rate": "1/1820.44" },
+            { "item": "AddSlot", "rate": "1/744.73" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Blade", "rate": "1/1820.44" },
+            { "item": "Breaker", "rate": "1/1820.44" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Cutter", "rate": "1/1820.44" },
+            { "item": "Repeater", "rate": "1/1820.44" },
+            { "item": "Amplifier of Gifoie", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Mine 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/113.78" },
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/113.78" },
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/113.78" }]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/113.78" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/113.78" },
+            { "item": "AddSlot", "rate": "1/1170.29" },
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/113.78" },
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/113.78" },
+            { "item": "AddSlot", "rate": "1/744.73" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/113.78" }]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Mag", "rate": "1/113.78" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/113.78" },
+            { "item": "Amplifier of Gibarta", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Mine 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Cannon", "rate": "1/1489.45" },
+            { "item": "Glaive", "rate": "1/1489.45" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Blaster", "rate": "1/1489.45" },
+            { "item": "Blade", "rate": "1/1489.45" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Breaker", "rate": "1/1489.45" },
+            { "item": "Blaster", "rate": "1/1489.45" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Glaive", "rate": "1/1489.45" },
+            { "item": "Pole", "rate": "1/1489.45" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Repeater", "rate": "1/1489.45" },
+            { "item": "Blade", "rate": "1/1489.45" },
+            { "item": "Amplifier of Rabarta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Staff", "rate": "1/1489.45" },
+            { "item": "Glaive", "rate": "1/1489.45" },
+            { "item": "Amplifier of Rabarta", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Cutter", "rate": "1/1489.45" },
+            { "item": "Cannon", "rate": "1/1489.45" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Blade", "rate": "1/1489.45" },
+            { "item": "Breaker", "rate": "1/1489.45" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "AddSlot", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Mag", "rate": "1/256" },
+            { "item": "Cutter", "rate": "1/1489.45" },
+            { "item": "Repeater", "rate": "1/1489.45" },
+            { "item": "Amplifier of Rabarta", "rate": "1/1170.29" }
+          ]
+        }
+      ]
+    },
+    {
+      "area": "Ruins 1",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Rabarta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Rafoie", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "AddSlot", "rate": "1/744.73" },
+            { "item": "Amplifier of Red", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Red", "rate": "1/1170.29" },
+            { "item": "Amplifier of Rafoie", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Red", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Rafoie", "rate": "1/1170.29" }]
+        }
+      ]
+    },
+    {
+      "area": "Ruins 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Rabarta", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Razonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Razonde", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Razonde", "rate": "1/1170.29" },
+            { "item": "Amplifier of Yellow", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Yellow", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Amplifier of Yellow", "rate": "1/1170.29" },
+            { "item": "Amplifier of Razonde", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Yellow", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": []
+        }
+      ]
+    },
+    {
+      "area": "Ruins 3",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Launcher", "rate": "1/1260.31" },
+            { "item": "Berdys", "rate": "1/1260.31" }
+          ]
+        },
+        {
+          "sectionId": "Greenill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Beam", "rate": "1/1260.31" },
+            { "item": "Edge", "rate": "1/1260.31" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Skyly",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Claymore", "rate": "1/1260.31" },
+            { "item": "Beam", "rate": "1/1260.31" }
+          ]
+        },
+        {
+          "sectionId": "Bluefull",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Berdys", "rate": "1/1260.31" },
+            { "item": "Pillar", "rate": "1/1260.31" }
+          ]
+        },
+        {
+          "sectionId": "Purplenum",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Gatling", "rate": "1/1260.31" },
+            { "item": "Edge", "rate": "1/1260.31" }
+          ]
+        },
+        {
+          "sectionId": "Pinkal",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Baton", "rate": "1/1260.31" },
+            { "item": "Berdys", "rate": "1/1260.31" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Redria",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Sawcer", "rate": "1/1260.31" },
+            { "item": "Launcher", "rate": "1/1260.31" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Oran",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Edge", "rate": "1/1260.31" },
+            { "item": "Claymore", "rate": "1/1260.31" },
+            { "item": "Amplifier of Blue", "rate": "1/1170.29" }
+          ]
+        },
+        {
+          "sectionId": "Yellowboze",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [{ "item": "Amplifier of Blue", "rate": "1/1170.29" }]
+        },
+        {
+          "sectionId": "Whitill",
+          "difficulty": "Normal",
+          "episode": "E1",
+          "drops": [
+            { "item": "Sawcer", "rate": "1/1260.31" },
+            { "item": "Gatling", "rate": "1/1260.31" }
+          ]
+        }
+      ]
+    }
+  ]
+}

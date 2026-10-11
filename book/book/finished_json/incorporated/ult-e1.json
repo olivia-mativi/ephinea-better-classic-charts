@@ -1,0 +1,3998 @@
+{
+  "ultimate": [
+    {
+      "monster": "Hildelt",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Star Amplifier",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Star Amplifier",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Flowen's Sword (3064)",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/75.29"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Elysion",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Elysion",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Elysion",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "God/Battle",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Elysion",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Luminous Field",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1204.71"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Saber",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        }
+      ]
+    },
+    {
+      "monster": "Hildetorr",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Red Saber",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Frozen Shooter",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Red Saber",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Heaven Punisher",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/204.80"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Frozen Shooter",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Star Amplifier",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Magic Stone “Iritista”",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/21.33",
+          "mobRareDropRatePercent": "4.68750%",
+          "totalDropRateFraction": "1/21.33"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Syncesta",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/21.33",
+          "mobRareDropRatePercent": "4.68750%",
+          "totalDropRateFraction": "1/21.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Frozen Shooter",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Frozen Shooter",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        }
+      ]
+    },
+    {
+      "monster": "Mothvert",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Mahu",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Mahu",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Braveman",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        }
+      ]
+    },
+    { "monster": "Mothvist", "drops": [] },
+    {
+      "monster": "El Rappy",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Angry Fist",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Angry Fist",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Angry Fist",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Angry Fist",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Red Handgun",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/315.08"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Sacred Cloth",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/512"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Flowen's Sword (3079)",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/64"
+        }
+      ]
+    },
+    {
+      "monster": "Pal Rappy",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Guard Wave",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Angel Harp",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/21.33",
+          "mobRareDropRatePercent": "4.68750%",
+          "totalDropRateFraction": "1/21.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "HP/Revival",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Sacred Cloth",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/21.33",
+          "mobRareDropRatePercent": "4.68750%",
+          "totalDropRateFraction": "1/21.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Red Handgun",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Star Amplifier",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Hero/Ability",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Partisan",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        }
+      ]
+    },
+    {
+      "monster": "Gulgus",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Custom Frame ver.OO",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/682.67"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Alive Aqhu",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Divinity Armor",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Yamato",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        }
+      ]
+    },
+    {
+      "monster": "Gulgus-Gue",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Inferno Bazooka",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Inferno Bazooka",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "God/Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Imperial Pick",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "God/Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "God/Mind",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "God/Mind",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Flowen's Sword (3083)",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Cure/Confuse",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Cure/Freeze",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        }
+      ]
+    },
+    {
+      "monster": "Bartle",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Final Impact",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Inferno Bazooka",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Braveman",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Red Handgun",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        }
+      ]
+    },
+    {
+      "monster": "Barble",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/168.42"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/168.42"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/168.42"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/168.42"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Inferno Bazooka",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/829.15"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Red Saber",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/829.15"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Inferno Bazooka",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/829.15"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/168.42"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Red Saber",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/829.15"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/2.63",
+          "mobDropRatePercent": "38%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/168.42"
+        }
+      ]
+    },
+    {
+      "monster": "Tollaw",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Red Handgun",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Sacred Guard",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Luminous Field",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Red Saber",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Twin Chakram",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Handgun: Milla",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        }
+      ]
+    },
+    {
+      "monster": "Sil Dragon",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Final Impact",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon's Claw",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Holy Ray",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Braveman",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Dragon's Claw",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Dragon's Claw",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Dragon's Claw",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        }
+      ]
+    },
+    {
+      "monster": "Crimson Assassin",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Red Partisan",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Syncesta",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Red Dagger",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Red Partisan",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Smoking Plate",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1861.82"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Technical Crozier",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Asuka",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Red Partisan",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Heaven Punisher",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/190650.18"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Sacred Guard",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1861.82"
+        }
+      ]
+    },
+    {
+      "monster": "Ob Lily",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Final Impact",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/256"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/256"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/256"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/256"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/256"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Cure/Poison",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Angry Fist",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/256"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Guard Wave",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/4096"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Handgun",
+          "mobDropRateFraction": "1/4",
+          "mobDropRatePercent": "25%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1260.31"
+        }
+      ]
+    },
+    {
+      "monster": "Mil Lily",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "God/Power",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "DB's Saber (3062)",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/1.14",
+          "mobRareDropRatePercent": "87.50000%",
+          "totalDropRateFraction": "1/1.14"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Sange",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Demolition Comet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Psycho Wand",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/204.80"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Caduceus",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Demolition Comet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Sense Plate",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Sange",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/21.33",
+          "mobRareDropRatePercent": "4.68750%",
+          "totalDropRateFraction": "1/21.33"
+        }
+      ]
+    },
+    {
+      "monster": "Nano Dragon",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Red Sword",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "God/Arm",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/930.91"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Red Slicer",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Kasami Bracer",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1861.82"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Purplenum Card",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/116.36"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Red Slicer",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Flight Fan",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        }
+      ]
+    },
+    {
+      "monster": "Vulmer",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Chain Sawd",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "PB/Create",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        }
+      ]
+    },
+    {
+      "monster": "Govulmer",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Final Impact",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Red Sword",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Branch of Pakupaku",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Sacred Guard",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1462.86"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Branch of Pakupaku",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        }
+      ]
+    },
+    {
+      "monster": "Melqueek",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Yasha",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/67216.41"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Demolition Comet",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/2100.51"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "God/HP",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/3413.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Cure/Confuse",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/3413.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Branch of Pakupaku",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/2100.51"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Branch of Pakupaku",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/2100.51"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Red Sword",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/2100.51"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "HP/Revival",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/3413.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Red Sword",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/2100.51"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Sword",
+          "mobDropRateFraction": "1/6.67",
+          "mobDropRatePercent": "15%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/2100.51"
+        }
+      ]
+    },
+    {
+      "monster": "Pofuilly Slime",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/237.04"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "DB's Shield",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/758.52"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/237.04"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/237.04"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/237.04"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/37342.45"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Guard Wave",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1896.30"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Stag Cutlery",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/237.04"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Final Impact",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/237.04"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Guard Wave",
+          "mobDropRateFraction": "1/3.70",
+          "mobDropRatePercent": "27%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/3792.59"
+        }
+      ]
+    },
+    {
+      "monster": "Pouilly Slime",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "God/Body",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Morning Glory",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Demolition Comet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Caduceus",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "TP/Revival",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/21.33",
+          "mobRareDropRatePercent": "4.68750%",
+          "totalDropRateFraction": "1/21.33"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Guard Wave",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Caduceus",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Caduceus",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/2",
+          "mobRareDropRatePercent": "50.00000%",
+          "totalDropRateFraction": "1/2"
+        }
+      ]
+    },
+    {
+      "monster": "Pan Arms",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Sange",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Red Dagger",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "P-arm's Arms",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "P-arm's Arms",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Red Dagger",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Yamato",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/71.11"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Sange",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "God/TP",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/568.89"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "P-arm's Arms",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "P-arm's Arms",
+          "mobDropRateFraction": "1/1.11",
+          "mobDropRatePercent": "90%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/350.09"
+        }
+      ]
+    },
+    {
+      "monster": "Migium",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Yamato",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Guilty Light",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Yamato",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Hero/Ability",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Yamato",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Angry Fist",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        }
+      ]
+    },
+    {
+      "monster": "Hidoom",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Mahu",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Elysion",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "DB's Shield",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Mahu",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "God/Mind",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Cure/Confuse",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Alive Aqhu",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        }
+      ]
+    },
+    {
+      "monster": "Dal Ral Lie",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Holy Ray",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Alive Aqhu",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Holy Ray",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Braveman",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Holy Ray",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Diska of Braveman",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        }
+      ]
+    },
+    {
+      "monster": "Dubchich",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Devil/Battle",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Hero/Ability",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Yamato",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "HP/Revival",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Magic Rock “Moola”",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Luminous Field",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Oran Card",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/33608.21"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Cure/Shock",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Inferno Bazooka",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        }
+      ]
+    },
+    {
+      "monster": "Gilchich",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Final Impact",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Yasminkov 3000R",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Flowen's Sword (3073)",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/33608.21"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "TP/Revival",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        }
+      ]
+    },
+    {
+      "monster": "Baranz",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Parts of Baranz",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Parts of Baranz",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Syncesta",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/11861.72"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/75.29"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Parts of Baranz",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Mahu",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/75.29"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Parts of Baranz",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Parts of Baranz",
+          "mobDropRateFraction": "1/1.18",
+          "mobDropRatePercent": "85%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/370.68"
+        }
+      ]
+    },
+    {
+      "monster": "Sinow Blue",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Red Dagger",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/525.13"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Magic Rock “Moola”",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/525.13"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Luminous Field",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Magic Rock “Moola”",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/525.13"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Magic Rock “Moola”",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/525.13"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Cure/Slow",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/853.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Kasami Bracer",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/853.33"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/106.67"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Kasami Bracer",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1706.67"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Heaven Punisher",
+          "mobDropRateFraction": "1/1.67",
+          "mobDropRatePercent": "60%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/174762.67"
+        }
+      ]
+    },
+    {
+      "monster": "Sinow Red",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Heaven Punisher",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/190650.18"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "NUG2000-Bazooka",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "S-red's Arms",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Syncesta",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Heaven Punisher",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/190650.18"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/18331.75"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "S-red's Arms",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "S-red's Arms",
+          "mobDropRateFraction": "1/1.82",
+          "mobDropRatePercent": "55%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/572.87"
+        }
+      ]
+    },
+    {
+      "monster": "Canabin",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Viridia Card",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Alive Aqhu",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Kasami Bracer",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "DB's Saber (3073)",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "NUG2000-Bazooka",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Whitill Card",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        }
+      ]
+    },
+    {
+      "monster": "Canune",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "DB's Shield",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/585.14"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Kasami Bracer",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Asuka",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Sacred Guard",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Yasminkov 9000M",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Smoking Plate",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Magic Rock “Moola”",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Asuka",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Magic Rock “Moola”",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Asuka",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        }
+      ]
+    },
+    {
+      "monster": "Vol Opt ver. 2",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Ruby Bullet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Ruby Bullet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Justy-23ST",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Ruby Bullet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Ruby Bullet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "God/HP",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "L&K14 Combat",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/4.92",
+          "mobRareDropRatePercent": "20.31250%",
+          "totalDropRateFraction": "1/4.92"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Ruby Bullet",
+          "mobDropRateFraction": "1/1",
+          "mobDropRatePercent": "100%",
+          "mobRareDropRate": "1/36.57",
+          "mobRareDropRatePercent": "2.73438%",
+          "totalDropRateFraction": "1/36.57"
+        }
+      ]
+    },
+    {
+      "monster": "Delsaber",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Delsaber's Left Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Agito (1975)",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/22405.47"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Delsaber's Left Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Morning Glory",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Delsaber's Left Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Delsaber's Left Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Delsaber's Left Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Delsaber's Left Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/204.80",
+          "mobRareDropRatePercent": "0.48828%",
+          "totalDropRateFraction": "1/455.11"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Delsaber's Right Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/142.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Morning Glory",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        }
+      ]
+    },
+    {
+      "monster": "Gran Sorcerer",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Psycho Wand",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/299593.14"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Psycho Wand",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/299593.14"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Sorcerer's Right Arm",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Book of Hitogata",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Sorcerer's Right Arm",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Psycho Wand",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/299593.14"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Sorcerer's Right Arm",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Sorcerer's Right Arm",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Handgun: Guld",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        }
+      ]
+    },
+    {
+      "monster": "Dark Gunner",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Luminous Field",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Red Mechgun",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Skyly Card",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/22405.47"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Red Slicer",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Sacred Guard",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Morning Glory",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Smoking Plate",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Morning Glory",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Guardianna",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Slicer",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        }
+      ]
+    },
+    { "monster": "Death Gunner", "drops": [] },
+    {
+      "monster": "Dark Bringer",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Bringer's Right Arm",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Bringer's Right Arm",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Meteor Cudgel",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Smoking Plate",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/1163.64"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Bringer's Right Arm",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Bringer's Right Arm",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Spread Needle",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Prophets of Motav",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/11457.34"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Bringer's Right Arm",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/358.04"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Rico's Earring",
+          "mobDropRateFraction": "1/1.14",
+          "mobDropRatePercent": "88%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/581.82"
+        }
+      ]
+    },
+    {
+      "monster": "Indi Belra",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Belra's Right Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Belra's Right Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Sacred Cloth",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Book of Hitogata",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/22405.47"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Belra's Right Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Guardianna",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Meteor Cudgel",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Guardianna",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Belra's Right Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Belra's Right Arm",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        }
+      ]
+    },
+    {
+      "monster": "Claw",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Mahu",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Celestial Armor",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Silence Claw",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "DB's Saber (3075)",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Perfect/Resist",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1706.67"
+        }
+      ]
+    },
+    { "monster": "Bulk", "drops": [] },
+    {
+      "monster": "Bulclaw",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Sacred Cloth",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Cure/Paralysis",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Morning Glory",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Devil/Battle",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1137.78"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "DF Field",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Evil Curst",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/22405.47"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "God/Technique",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/700.17"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Kasami Bracer",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Psycho Wand",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/104857.60",
+          "mobRareDropRatePercent": "0.00095%",
+          "totalDropRateFraction": "1/233016.89"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "DF Field",
+          "mobDropRateFraction": "1/2.22",
+          "mobDropRatePercent": "45%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2275.56"
+        }
+      ]
+    },
+    {
+      "monster": "Arlan",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Gae Bolg",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Dragon Slayer",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "DB's Saber (3069 Chris)",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Guardianna",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "Storm Wand: Indra",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Diska of Braveman",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Cross Scar",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/213.33"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Smoking Plate",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/3413.33"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Meteor Cudgel",
+          "mobDropRateFraction": "1/3.33",
+          "mobDropRatePercent": "30%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/1050.26"
+        }
+      ]
+    },
+    {
+      "monster": "Merlan",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Flame Visit",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "Spread Needle",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "God/Body",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1462.86"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Spread Needle",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "DB's Saber (3069 Torato)",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/64",
+          "mobRareDropRatePercent": "1.56250%",
+          "totalDropRateFraction": "1/182.86"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "DF Field",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1462.86"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Red Mechgun",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Spread Needle",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Red Mechgun",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        }
+      ]
+    },
+    {
+      "monster": "Del-D",
+      "drops": [
+        {
+          "sectionId": "Viridia",
+          "item": "Red Scorpio",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Greenill",
+          "item": "DF Field",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Skyly",
+          "item": "Lavis Cannon",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/10082.46",
+          "mobRareDropRatePercent": "0.00992%",
+          "totalDropRateFraction": "1/28807.03"
+        },
+        {
+          "sectionId": "Bluefull",
+          "item": "Guardianna",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Purplenum",
+          "item": "Red Mechgun",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Pinkal",
+          "item": "DF Field",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/1024",
+          "mobRareDropRatePercent": "0.09766%",
+          "totalDropRateFraction": "1/2925.71"
+        },
+        {
+          "sectionId": "Redria",
+          "item": "Red Mechgun",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Oran",
+          "item": "Devil/Battle",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1462.86"
+        },
+        {
+          "sectionId": "Yellowboze",
+          "item": "Meteor Cudgel",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/315.08",
+          "mobRareDropRatePercent": "0.31738%",
+          "totalDropRateFraction": "1/900.22"
+        },
+        {
+          "sectionId": "Whitill",
+          "item": "Rico's Glasses",
+          "mobDropRateFraction": "1/2.86",
+          "mobDropRatePercent": "35%",
+          "mobRareDropRate": "1/512",
+          "mobRareDropRatePercent": "0.19531%",
+          "totalDropRateFraction": "1/1462.86"
+        }
+      ]
+    },
+    { "monster": "Dark Falz", "drops": [] }
+  ]
+}
