@@ -57,6 +57,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+<<<<<<< Updated upstream
 name: Deploy mdBook site to Pages
 
 on:
@@ -116,3 +117,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+=======
+>>>>>>> Stashed changes
