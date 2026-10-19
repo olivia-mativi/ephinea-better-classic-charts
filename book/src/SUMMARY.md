@@ -12,3 +12,4 @@
   - [Whitill](./section_ids/whitill.md)
   - [Yellowboze](./section_ids/yellowboze.md)
 - [Availability by Item](./chapter_2.md)
+- [Section ID Diff Rankings](./chapter_3.md)
